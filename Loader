@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/V-Rusa/DexoWare/main/DexoH.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/V-Rusa/DexoWare/main/DexoWareRe.lua", true))()
