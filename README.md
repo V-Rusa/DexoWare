@@ -1,2 +1,2 @@
 # DexoWare
-Da hood Script
+this script has been discontinued
